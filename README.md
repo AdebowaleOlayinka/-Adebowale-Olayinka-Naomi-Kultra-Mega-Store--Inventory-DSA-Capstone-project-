@@ -57,4 +57,24 @@ This customers purchase mostly Copiers and fax and office machines and most of t
 7. Dennis Kane in the small business customer segments had the highest sale
 8. The total number of Orders placed between 2009-2012 is 214,777 orders. Roy Skaria placed the highest number of within that year of about 773 orders
 9. The company made a total of 34,005 profit from the sales of Emily Phan
-10. About 572 orders were returned by customers grouping them into segments 
+10. About 572 orders were returned by customers and the segment of highest return is the corporate customers with 215 returned order
+
+| Customer Segments | Total Returned |
+| ----- | ---- |
+| Corporate | 215|
+| Home Office|138|
+|Small Business|121|
+|consumer|98|
+
+11. **Shipping By orders of Priority**
+Delivery truck was the slowest but economical but it had a high number of critical and high order priority compared to express air which is the fastest that should be used for critical and high orders. This implies that company did not spend according to the shipping cost based on priority but consider cost savings over speed that would lead to customer dissatisfaction due to delay in delivery 
+
+| Shipping Mode | Order of Priority|
+| -----| ----|
+| Delivery Truck| Critical = 288|
+|  | High= 248|
+| Expeess Air | Critical= 200|
+| | High= 212|
+| Regular Air | Critical= 1180|
+| | High = 1350 |
+
