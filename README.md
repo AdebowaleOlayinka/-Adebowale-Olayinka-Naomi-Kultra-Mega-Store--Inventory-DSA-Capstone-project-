@@ -79,4 +79,7 @@ Delivery truck was the slowest but economical but it had a high number of critic
 
 ## Recommendations 
 1. Ensure a clear communication with customer regarding shipping mode and order priority to reduces potential dissatisfaction 
-2. offer free shipping to customer who placed higher order 
+2. offer free shipping to customer who placed higher order
+3. kms should consider target campaign or loyalty programs to customers to increase sales 
+
+
