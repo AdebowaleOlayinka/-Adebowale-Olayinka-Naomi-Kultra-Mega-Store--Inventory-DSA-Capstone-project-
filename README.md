@@ -78,4 +78,5 @@ Delivery truck was the slowest but economical but it had a high number of critic
 | | High = 1350 |
 
 ## Recommendations 
-1. Ensure a clear communication with customer regarding shipping mode and order priority to reduce potential dissatisfaction 
+1. Ensure a clear communication with customer regarding shipping mode and order priority to reduces potential dissatisfaction 
+2. offer free shipping to customer who placed higher order 
