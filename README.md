@@ -136,9 +136,22 @@ kms should consider target campaign or loyalty programs to customers to increase
 This customers purchase mostly Copiers and fax and office machines and most of them are smaller business owner and consumers 
 
 7. Dennis Kane in the small business customer segments had the highest sale of ₦75,959
-8. The total number of Orders placed between 2009-2012 is 5,496 orders. Adam Hart is the corporate customers to place the highest order of 18 orders between 2009-2012
+8. The total number of Orders placed between 2009-2012 is 5,496 orders. Adam Hart is the corporate customers to place the highest order of 27 orders between 2009-2012
 9. The company made a total of ₦34,005 profit from the sales of Emily Phan
 10. About 572 orders were returned by customers and the segment of highest return is the corporate customers with 215 returned order
+
+ | Customer name| Segment|
+| ---- | ---|
+|Tamara Dahlem| Corporate|
+| Johnathan Doherty| Corporate|
+| Michael Dominguez| Home office|
+|Anne Pryor| consumer|
+|Erin Creighton| Corporate |
+| Frank Gastineau|small business|
+|Cari Sayre| Coporate|
+|Shari Gordon|Corporate |
+|Dave Hallsten | Corporate|
+|Dorothy Badders| Home and odfice|
 
 | Customer Segments | Total Returned |
 | ----- | ---- |
