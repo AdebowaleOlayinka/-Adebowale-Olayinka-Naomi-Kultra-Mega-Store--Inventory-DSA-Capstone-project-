@@ -92,11 +92,6 @@ group by [Order Priority],[Ship Mode]
 order by [order priority],[ship mode]
 ```
 
-
-![kms1](https://github.com/user-attachments/assets/e514507a-26c6-45d6-9238-53fd16521002)
-
-
-![kms 2](https://github.com/user-attachments/assets/296bb8e2-3a6c-40f4-81fa-6db4f6561103)
 ## Insight Derived
 - **Total Customer**: 795
 - **Total Sales**: ₦14,911,890
