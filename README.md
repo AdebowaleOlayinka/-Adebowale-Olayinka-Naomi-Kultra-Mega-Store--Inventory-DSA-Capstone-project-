@@ -31,7 +31,7 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 ## Insight Derived
 - **Total Customer**: 795
 - **Total Sales**: ₦14,911,890
-- **Order Order**: 5,496
+- **Total Order**: 5,496
 - **Total Returned Order**: 572
 1. Highest Sales in product category: Technology has the highest sales among the three products categories
 2. Top 3 and bottom 3 Regions by sales: The top 3 regions with the highest sales are West, Ontario and Prairie while the bottom 3 where Nunavut, North West territory and Yukon
