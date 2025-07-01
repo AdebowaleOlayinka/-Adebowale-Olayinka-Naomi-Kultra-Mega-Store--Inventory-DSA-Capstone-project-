@@ -33,8 +33,8 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 - **Total Sales**: ₦14,911,890
 - **Total Order**: 5,496
 - **Total Returned Order**: 572
-1. Highest Sales in product category: Technology has the highest sales of ₦5,983,316 among the three products categories
-2. Top 3 and bottom 3 Regions by sales: The top 3 regions with the highest sales are West(₦3,596,680), Ontario(₦3,062,407) and Prairie(₦2,836,550) while the bottom 3 where Nunavut(₦116,343), North West territory(₦800,671), and Yukon(₦975,618)
+1. **Highest Sales in product category**: Technology has the highest sales of ₦5,983,316 among the three products categories
+2. **Top 3 and bottom 3 Regions by sales**: The top 3 regions with the highest sales are West(₦3,596,680), Ontario(₦3,062,407) and Prairie(₦2,836,550) while the bottom 3 where Nunavut(₦116,343), North West territory(₦800,671), and Yukon(₦975,618)
 3. Ontario had the total sales of ₦202,300 for appliances
 4. Kultra mega store incurred the highest shipping cost on Delivery truck with a total of ₦51,968
 5. **The Top 10 valuable customer are:**
