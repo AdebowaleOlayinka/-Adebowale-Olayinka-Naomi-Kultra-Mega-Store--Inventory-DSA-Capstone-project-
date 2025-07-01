@@ -100,8 +100,24 @@ order by [order priority],[ship mode]
 1. **Highest Sales in product category**: Technology has the highest sales of ₦5,983,316 among the three products categories
 2. **Top 3 and bottom 3 Regions by sales**: The top 3 regions with the highest sales are West(₦3,596,680), Ontario(₦3,062,407) and Prairie(₦2,836,550) while the bottom 3 where Nunavut(₦116,343), North West territory(₦800,671), and Yukon(₦975,618)
 3. Ontario had the total sales of ₦202,300 for appliances
-4. Kultra mega store incurred the highest shipping cost on Delivery truck with a total of ₦51,968
-5. **The Top 10 valuable customer are:**
+4. **Bottom 10 customers**
+
+ | Customers Names |
+ |----|
+ | Jeremy Farry |
+| Michelle Elison|
+| Natalie Decherney|
+|Nicole Fjeld|
+|Katrina Edelman|
+|Bart Pistole|
+|Dorothy Dickinson|
+|Christine Kargatis|
+|Eric Murdock|
+|Chris McAfee|
+
+kms should consider target campaign or loyalty programs to customers to increase sales 
+5. Kultra mega store incurred the highest shipping cost on Delivery truck with a total of ₦51,968
+6. **The Top 10 valuable customer are:**
 
 | Customers Names |
 | ---- |
@@ -117,10 +133,10 @@ order by [order priority],[ship mode]
 |Lisa DeCherriey|
 This customers purchase mostly Copiers and fax and office machines and most of them are smaller business owner and consumers 
 
-6. Dennis Kane in the small business customer segments had the highest sale of ₦75,959
-7. The total number of Orders placed between 2009-2012 is 5,496 orders. Adam Hart is the corporate customers to place the highest order of 18 orders between 2009-2012
-8. The company made a total of ₦34,005 profit from the sales of Emily Phan
-9. About 572 orders were returned by customers and the segment of highest return is the corporate customers with 215 returned order
+7. Dennis Kane in the small business customer segments had the highest sale of ₦75,959
+8. The total number of Orders placed between 2009-2012 is 5,496 orders. Adam Hart is the corporate customers to place the highest order of 18 orders between 2009-2012
+9. The company made a total of ₦34,005 profit from the sales of Emily Phan
+10. About 572 orders were returned by customers and the segment of highest return is the corporate customers with 215 returned order
 
 | Customer Segments | Total Returned |
 | ----- | ---- |
@@ -129,7 +145,7 @@ This customers purchase mostly Copiers and fax and office machines and most of t
 |Small Business|121|
 |consumer|98|
 
-10. **Shipping By orders of Priority**
+11. **Shipping By orders of Priority**
 Delivery truck was the slowest but economical but it had a high number of critical and high order priority compared to express air which is the fastest that should be used for critical and high orders. This implies that company did not spend according to the shipping cost based on priority but consider cost savings over speed that would lead to customer dissatisfaction due to delay in delivery 
 
 | Shipping Mode | Order of Priority|
