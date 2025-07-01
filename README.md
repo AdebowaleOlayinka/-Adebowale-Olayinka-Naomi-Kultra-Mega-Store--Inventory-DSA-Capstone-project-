@@ -100,7 +100,7 @@ order by [order priority],[ship mode]
 1. **Highest Sales in product category**: Technology has the highest sales of ₦5,983,316 among the three products categories
 2. **Top 3 and bottom 3 Regions by sales**: The top 3 regions with the highest sales are West(₦3,596,680), Ontario(₦3,062,407) and Prairie(₦2,836,550) while the bottom 3 where Nunavut(₦116,343), North West territory(₦800,671), and Yukon(₦975,618)
 3. Ontario had the total sales of ₦202,300 for appliances
-4. **Bottom 10 customers**
+4. **Advice on Bottom 10 customers**
 
  | Customers Names |
  |----|
@@ -114,23 +114,25 @@ order by [order priority],[ship mode]
 |Christine Kargatis|
 |Eric Murdock|
 |Chris McAfee|
+kms should consider target campaign or loyalty programs to customers to increase sales
 
-kms should consider target campaign or loyalty programs to customers to increase sales 
 5. Kultra mega store incurred the highest shipping cost on Delivery truck with a total of ₦51,968
-6. **The Top 10 valuable customer are:**
 
-| Customers Names |
-| ---- |
-|Emily Phan|
-| Raymond Book|
-| Dennis Kane|
-|Jasper Cacioppo|
-|Grant Carroll|
-|Clytie Kelty|
-|Craig Carreira|
-|Roy Skaria|
-|Roy Phan|
-|Lisa DeCherriey|
+6.**The Top 10 valuable customer are:**
+
+| Customers Names |Product Purchased|
+| ---- | ---|
+|Emily Phan| Office Machines|
+| Raymond Book| copiers and fax|
+| Dennis Kane| Copiers and Fax|
+|Jasper Cacioppo| Office Machines|
+|Grant Carroll|Binders and Binders Accessories|
+|Clytie Kelty|copiers and fax|
+|Ajejandro Groove| Office machines|
+|Roy Skaria|Binders and Binders Accessories|
+|Roy Phan|Book cases|
+|Lisa DeCherriey|Office and Machines|
+
 This customers purchase mostly Copiers and fax and office machines and most of them are smaller business owner and consumers 
 
 7. Dennis Kane in the small business customer segments had the highest sale of ₦75,959
