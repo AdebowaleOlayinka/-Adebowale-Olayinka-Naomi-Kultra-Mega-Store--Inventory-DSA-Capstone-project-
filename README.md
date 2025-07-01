@@ -24,7 +24,7 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 ## SQl Query 
 
-'''
+```
 --1. Which product category had the highest sales?
 select top 1[product category], sum(sales) as [Total Sales] from [KMS data] 
 group by [Product Category]
@@ -90,7 +90,7 @@ avg (datediff(day,[order id],[Ship Date]))as avgshipday,
 count([Order ID]) as [Total order] from [KMS data]
 group by [Order Priority],[Ship Mode]
 order by [order priority],[ship mode]
-'''
+```
 
 
 ![kms1](https://github.com/user-attachments/assets/e514507a-26c6-45d6-9238-53fd16521002)
