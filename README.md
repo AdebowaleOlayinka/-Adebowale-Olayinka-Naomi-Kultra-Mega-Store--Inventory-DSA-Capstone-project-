@@ -23,7 +23,10 @@ purchase?
 Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 ## SQl Query 
-
+- **Create a database**
+```sql
+Create database DSA_db
+```
 1. Which product category had the highest sales?
 ```sql
 SELECT 
