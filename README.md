@@ -146,7 +146,8 @@ order by [order priority],[ship mode]
 |Christine Kargatis|
 |Eric Murdock|
 |Chris McAfee|
-kms should consider target campaign or loyalty programs to customers to increase sales
+1.kms should consider target campaign or loyalty programs to customers to increase sales.
+2.Reach out to the underperforming customer to understand why they stop purchasing 
 
 5. Kultra mega store incurred the highest shipping cost on Delivery truck with a total of ₦51,968
 
