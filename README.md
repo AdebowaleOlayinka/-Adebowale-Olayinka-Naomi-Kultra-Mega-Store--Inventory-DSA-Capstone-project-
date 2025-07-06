@@ -130,9 +130,15 @@ order by [order priority],[ship mode]
 - **Total Order**: 5,496
 - **Total Returned Order**: 572
 1. **Highest Sales in product category**: Technology has the highest sales of ₦5,983,316 among the three products categories
-2. **Top 3 and bottom 3 Regions by sales**: The top 3 regions with the highest sales are West(₦3,596,680), Ontario(₦3,062,407) and Prairie(₦2,836,550) while the bottom 3 where Nunavut(₦116,343), North West territory(₦800,671), and Yukon(₦975,618)
-3. Ontario had the total sales of ₦202,300 for appliances
-4. **Advice on Bottom 10 customers**
+2. **Top 3 and bottom 3 Regions by sales**: The top 3 regions with the highest sales are
+
+|Top 3 Region| Botton 3 Region
+|---|---|
+|West(₦3,596,680)|Nunavut (₦116,343)
+|Ontario(₦3,062,407) |North West Territories (₦800,671)
+|Prairie(₦2,836,550) |Yukon(₦975,618)
+4. Ontario had the total sales of ₦202,300 for appliances
+5. **Advice on Bottom 10 customers**
 
  | Customers Names |
  |----|
